@@ -1,0 +1,15 @@
+{
+  "originHash" : "cdf9db8af3dd2c0f0ac437ffc512bbe9bbd187a2cf62fd4ace4a2cc006a9c150",
+  "pins" : [
+    {
+      "identity" : "loadingviewkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GermanHernandez91/LoadingViewKit",
+      "state" : {
+        "revision" : "b3ff4c976757ddcac9ae785c36d255cce40fdf90",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
